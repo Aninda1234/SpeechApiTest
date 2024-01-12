@@ -1,0 +1,247 @@
+[
+ {
+  "Code": "ar-eg",
+  "Label": "Arabic (Egypt)",
+  "Language": "Arabic (Egypt)"
+ },
+ {
+  "Code": "ar-sa",
+  "Label": "Arabic (Saudi Arabia)",
+  "Language": "Arabic (Saudi Arabia)"
+ },
+ {
+  "Code": "bg-bg",
+  "Label": "Bulgarian",
+  "Language": "Bulgarian"
+ },
+ {
+  "Code": "ca-es",
+  "Label": "Catalan",
+  "Language": "Catalan"
+ },
+ {
+  "Code": "zh-cn",
+  "Label": "Chinese (China)",
+  "Language": "Chinese (China)"
+ },
+ {
+  "Code": "zh-hk",
+  "Label": "Chinese (Hong Kong)",
+  "Language": "Chinese (Hong Kong)"
+ },
+ {
+  "Code": "zh-tw",
+  "Label": "Chinese (Taiwan)",
+  "Language": "Chinese (Taiwan)"
+ },
+ {
+  "Code": "hr-hr",
+  "Label": "Croatian",
+  "Language": "Croatian"
+ },
+ {
+  "Code": "cs-cz",
+  "Label": "Czech",
+  "Language": "Czech"
+ },
+ {
+  "Code": "da-dk",
+  "Label": "Danish",
+  "Language": "Danish"
+ },
+ {
+  "Code": "nl-be",
+  "Label": "Dutch (Belgium)",
+  "Language": "Dutch (Belgium)"
+ },
+ {
+  "Code": "nl-nl",
+  "Label": "Dutch (Netherlands)",
+  "Language": "Dutch (Netherlands)"
+ },
+ {
+  "Code": "en-au",
+  "Label": "English (Australia)",
+  "Language": "English (Australia)"
+ },
+ {
+  "Code": "en-ca",
+  "Label": "English (Canada)",
+  "Language": "English (Canada)"
+ },
+ {
+  "Code": "en-gb",
+  "Label": "English (Great Britain)",
+  "Language": "English (Great Britain)"
+ },
+ {
+  "Code": "en-in",
+  "Label": "English (India)",
+  "Language": "English (India)"
+ },
+ {
+  "Code": "en-ie",
+  "Label": "English (Ireland)",
+  "Language": "English (Ireland)"
+ },
+ {
+  "Code": "en-us",
+  "Label": "English (United States)",
+  "Language": "English (United States)"
+ },
+ {
+  "Code": "fi-fi",
+  "Label": "Finnish",
+  "Language": "Finnish"
+ },
+ {
+  "Code": "fr-ca",
+  "Label": "French (Canada)",
+  "Language": "French (Canada)"
+ },
+ {
+  "Code": "fr-fr",
+  "Label": "French (France)",
+  "Language": "French (France)"
+ },
+ {
+  "Code": "fr-ch",
+  "Label": "French (Switzerland)",
+  "Language": "French (Switzerland)"
+ },
+ {
+  "Code": "de-at",
+  "Label": "German (Austria)",
+  "Language": "German (Austria)"
+ },
+ {
+  "Code": "de-de",
+  "Label": "German (Germany)",
+  "Language": "German (Germany)"
+ },
+ {
+  "Code": "de-ch",
+  "Label": "German (Switzerland)",
+  "Language": "German (Switzerland)"
+ },
+ {
+  "Code": "el-gr",
+  "Label": "Greek",
+  "Language": "Greek"
+ },
+ {
+  "Code": "he-il",
+  "Label": "Hebrew",
+  "Language": "Hebrew"
+ },
+ {
+  "Code": "hi-in",
+  "Label": "Hindi",
+  "Language": "Hindi"
+ },
+ {
+  "Code": "hu-hu",
+  "Label": "Hungarian",
+  "Language": "Hungarian"
+ },
+ {
+  "Code": "id-id",
+  "Label": "Indonesian",
+  "Language": "Indonesian"
+ },
+ {
+  "Code": "it-it",
+  "Label": "Italian",
+  "Language": "Italian"
+ },
+ {
+  "Code": "ja-jp",
+  "Label": "Japanese",
+  "Language": "Japanese"
+ },
+ {
+  "Code": "ko-kr",
+  "Label": "Korean",
+  "Language": "Korean"
+ },
+ {
+  "Code": "ms-my",
+  "Label": "Malay",
+  "Language": "Malay"
+ },
+ {
+  "Code": "nb-no",
+  "Label": "Norwegian",
+  "Language": "Norwegian"
+ },
+ {
+  "Code": "pl-pl",
+  "Label": "Polish",
+  "Language": "Polish"
+ },
+ {
+  "Code": "pt-br",
+  "Label": "Portuguese (Brazil)",
+  "Language": "Portuguese (Brazil)"
+ },
+ {
+  "Code": "pt-pt",
+  "Label": "Portuguese (Portugal)",
+  "Language": "Portuguese (Portugal)"
+ },
+ {
+  "Code": "ro-ro",
+  "Label": "Romanian",
+  "Language": "Romanian"
+ },
+ {
+  "Code": "ru-ru",
+  "Label": "Russian",
+  "Language": "Russian"
+ },
+ {
+  "Code": "sk-sk",
+  "Label": "Slovak",
+  "Language": "Slovak"
+ },
+ {
+  "Code": "sl-si",
+  "Label": "Slovenian",
+  "Language": "Slovenian"
+ },
+ {
+  "Code": "es-mx",
+  "Label": "Spanish (Mexico)",
+  "Language": "Spanish (Mexico)"
+ },
+ {
+  "Code": "es-es",
+  "Label": "Spanish (Spain)",
+  "Language": "Spanish (Spain)"
+ },
+ {
+  "Code": "sv-se",
+  "Label": "Swedish",
+  "Language": "Swedish"
+ },
+ {
+  "Code": "ta-in",
+  "Label": "Tamil",
+  "Language": "Tamil"
+ },
+ {
+  "Code": "th-th",
+  "Label": "Thai",
+  "Language": "Thai"
+ },
+ {
+  "Code": "tr-tr",
+  "Label": "Turkish",
+  "Language": "Turkish"
+ },
+ {
+  "Code": "vi-vn",
+  "Label": "Vietnamese",
+  "Language": "Vietnamese"
+ }
+]

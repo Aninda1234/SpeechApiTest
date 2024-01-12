@@ -1,0 +1,45 @@
+<!-- speech-input.component.html -->
+
+<div>
+    <div>
+        <label for="textInput">Enter Text:</label>
+        <textarea id="textInput" [(ngModel)]="textToSpeech"></textarea>
+    
+        <label for="language">Language:</label>
+        <select id="language" [(ngModel)]="language">
+            <option *ngFor="let lang of languageOptions" [value]="lang.value">{{ lang.label }}</option>
+        </select>
+    
+        <label for="voice">Voice:</label>
+        <select id="voice" [(ngModel)]="voice"> -->
+            <option *ngFor="let v of getMappedVoices()" [value]="v.value">{{ v.label }}</option>
+            <!-- <option *ngFor="let v of voiceOptions" [value]="v.value">{{ v.label }}</option> -->
+        </select>
+    
+        <!-- to make the submit button functional multiple times -->
+        <form>
+            <button type="submit" (click)="generateSpeech()">Generate Speech</button>
+        </form>        
+    </div>
+    
+    <!-- old code with only 1 language (US English) and 1 voice (Amy) -->
+    <!-- <div>
+        <label for="textInput">Enter Text:</label>
+        <input type="text" id="textInput" [(ngModel)]="textToSpeech" />
+        <label for="language">Language:</label>
+        <input type="text" id="language" [(ngModel)]="language" />
+        <label for="voice">Voice:</label>
+        <input type="text" id="voice" [(ngModel)]="voice" />
+        <button (click)="generateSpeech()">Generate Speech</button>    
+    </div> -->
+    
+    <div>
+        <p *ngIf="speechReadyMessage">{{ speechReadyMessage }}</p>
+        <audio controls *ngIf="audioSrc">
+          <source [src]="audioSrc" type="audio/mpeg" />
+          Your browser does not support the audio element.
+        </audio>
+    </div>
+</div>
+
+  
